@@ -173,5 +173,5 @@ get("n", environment(square)) #[1] 2
 # Dates are stored internally as the number of days since 1970-01-01
 # Times are stored internally as the number of seconds since 1970-01-01
 # as.date("1970-01-01")
-
+# 
 
